@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi folks👋, I'm Maria Beatriz!</h2>
+<h2 align="left">Hi folks👋, I'm Maria Beatriz!</h2>
 
 <h4 align="left">I'm a web developer from Brazil with focus on frontend development.</h4>
 
