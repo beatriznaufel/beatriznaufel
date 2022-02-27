@@ -5,7 +5,7 @@
 <h4 align="left">I'm a web developer from Brazil with focus on front-end development.</h4>
 
 - 🎓 Currently studing System Analysis and Development.
-- 🤔 I'm also taking some certifications in my area.
+- 🤔 Also actively taking some certifications and courses.
 - 📫 How to reach me: **mariabncarvalho@gmail.com**.
 
 
