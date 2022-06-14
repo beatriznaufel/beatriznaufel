@@ -8,7 +8,7 @@
 - 🤔 Also actively taking some certifications and courses.
 - 📫 How to reach me: **mariabncarvalho@gmail.com**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznaufel&layout=compact&theme=dark)](https://github.com/beatriznaufel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznaufel&layout=compact&theme=dracula)](https://github.com/beatriznaufel/github-readme-stats)
 
 <!--- <h4 align="left">Let's connect!</h4>
 <p align="left">
