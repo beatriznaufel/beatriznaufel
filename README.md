@@ -4,7 +4,7 @@
 
 <h4 align="left">I'm a web developer from Brazil with focus on front-end development.</h4>
 
-- ☕ The techs I'm using are <strong>HTML, CSS & JavaScript.</strong>
+- ☕ The techs I'm using are HTML, CSS & JavaScript.
 - 🎓 Currently studing System Analysis and Development.
 - 🤔 Also actively taking some certifications and courses.
 
