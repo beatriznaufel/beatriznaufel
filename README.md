@@ -7,6 +7,8 @@
 - 🎓 Currently studing System Analysis and Development.
 - 🤔 Also actively taking some certifications and courses.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriznaufel&theme=omni&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznaufel&layout=compact&theme=dracula)](https://github.com/beatriznaufel/github-readme-stats)
 
 
