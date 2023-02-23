@@ -9,10 +9,6 @@
 - 🎓 Currently studing System Analysis and Development.
 - 🤔 Also actively taking some certifications and courses.
 
-
-<a href="https://www.linkedin.com/in/mariabeatriznaufel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7E74F1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/beatriznaufel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-7E74F1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznaufel&layout=compact&theme=material-palenight)](https://github.com/beatriznaufel/github-readme-stats)
