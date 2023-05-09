@@ -2,8 +2,6 @@
 
 <h2 align="left">Hey, I'm Maria Beatriz! 👋</h2> 
 
-**`Frontend developer`**
-
 <h4 align="left">I'm a web developer from Brazil with focus on front-end development. </h4>
 
 - 🎓 Currently studing System Analysis and Development.
