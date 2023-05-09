@@ -6,7 +6,7 @@
 
 - 🎓 Currently studing System Analysis and Development.
 - 🤔 Also actively taking some certifications and courses.
-- 👩🏻‍💻 Working as a Front-end Developer at @ Maeztra
+- 👩🏻‍💻 Working as a Front-end Developer at @ Maeztra.
 
 ---
 
