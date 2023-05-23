@@ -6,7 +6,6 @@
 
 - 🎓 Currently studing System Analysis and Development.
 - 🤔 Also actively taking some certifications and courses.
-- 👩🏻‍💻 Front-end Developer.
 
 ---
 
