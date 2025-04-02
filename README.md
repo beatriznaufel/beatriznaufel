@@ -5,7 +5,7 @@
 #### I'm a web developer from Brazil with focus on front-end development.
   
 ### 👩🏻‍💻 Tech I use:
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,vue,nuxt,tailwind,sass,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,react,tailwind,sass,figma,git)](https://skillicons.dev)
 
 
 
